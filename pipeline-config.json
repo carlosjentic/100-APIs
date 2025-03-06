@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "data_dir": "__data__/repos",
-  "output_dir": "__data__/outpu",
+  "output_dir": "__data__/output",
   "repositories": [
     {
       "name": "100-APIs",
