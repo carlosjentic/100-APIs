@@ -8,7 +8,7 @@
       "github_url": "https://github.com/carlosjentic/100-APIs.git"
     }
   ],
-  "save_to_db": true,
+  "save_openapi_details_to_db": true,
   "parallel": true,
   "workers": 4,
   "stages": ["clone", "scrape", "verify", "batch"]
