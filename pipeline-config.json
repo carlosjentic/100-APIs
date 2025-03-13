@@ -8,6 +8,5 @@
   ],
   "save_to_db": true,
   "parallel": true,
-  "workers": 4,
-  "stages": ["clone", "scrape", "verify", "batch"]
+  "workers": 4
 }
