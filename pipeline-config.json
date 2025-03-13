@@ -1,14 +1,12 @@
 {
   "version": "1.0.0",
-  "data_dir": "__data__/repos",
-  "output_dir": "__data__/output",
   "repositories": [
     {
       "name": "100-APIs",
       "github_url": "https://github.com/carlosjentic/100-APIs.git"
     }
   ],
-  "save_openapi_details_to_db": true,
+  "save_to_db": true,
   "parallel": true,
   "workers": 4,
   "stages": ["clone", "scrape", "verify", "batch"]
